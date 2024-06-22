@@ -17,4 +17,4 @@ To run this project locally, ensure you have Python installed. No additional pac
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/BatoulSbat/Coding-Task.git>
