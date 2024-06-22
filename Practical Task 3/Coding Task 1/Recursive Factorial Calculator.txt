@@ -1,0 +1,7 @@
+#### Task Name: Recursive Factorial Calculator
+
+**Description:**
+This Python script calculates the factorial of a number using a recursive approach. Factorial of a non-negative integer \( n \), denoted as \( n! \), is the product of all positive integers less than or equal to \( n \). The recursive function is implemented to showcase a fundamental use of recursion in programming.
+
+**Why it's important to learn:**
+Understanding recursion is crucial in programming as it provides a powerful way to solve problems that can be broken down into smaller, similar subproblems. Recursion enhances code readability and efficiency for certain algorithms, although it requires careful handling to avoid potential pitfalls like infinite recursion.
